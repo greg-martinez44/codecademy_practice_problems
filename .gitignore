@@ -1,0 +1,15 @@
+*.pyc
+*.csv
+*.xlsx
+*.xlsm
+*.pdf
+*.log
+*.png
+*.db
+
+
+**/.ipynb_checkpoints
+**/.__pycache__
+**/build
+**/dist
+
